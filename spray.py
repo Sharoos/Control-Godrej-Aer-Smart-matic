@@ -1,7 +1,7 @@
 import asyncio
 from bleak import BleakClient
 
-ADDRESS = "A4:C1:38:C6:2C:47"
+ADDRESS = "XX:XX:XX:XX:XX:XX"
 CHAR_UUID = "6e400003-b5a3-f393-e0a9-e50e24dcca9e"
 
 # 16-byte verified spray command
