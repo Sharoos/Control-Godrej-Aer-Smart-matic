@@ -8,7 +8,9 @@
 
 	   # Replace with your specific device address
 	   ADDRESS = "XX:XX:XX:XX:XX:XX"
-Execution Ensure your phone's Bluetooth is OFF (the device only allows one connection at a time) and run:
+Execution:
+
+Ensure your phone's Bluetooth is OFF (the device only allows one connection at a time) and run:
 
 		Bash
 		pip install bleak
